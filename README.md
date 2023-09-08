@@ -18,3 +18,6 @@ NFD MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED.  BY WAY OF EXAMP
 6. Nothing in this License Agreement shall be deemed to create any relationship of agency, partnership, or joint venture between NFD and Licensee. This License Agreement does not grant permission to use NFD trademarks or trade name in a trademark sense to endorse or promote products or services of Licensee, or any third party.
 
 7. By copying, incorporating or otherwise using IP, Licensee agrees to be bound by the terms and conditions of this License Agreement.
+
+8. In case of exceptional or unforeseeable events, the guiding principle for updating or revising the statements above will be based on the public interest.
+
