@@ -1,23 +1,22 @@
-Terms and conditions
+Terms and Conditions
 
-Nano Fusion Design's (NFD, see http://nanofusion.design/) intellectual property (IP) rights are licensed under the NFD License Agreement. The NFD License Agreement is based on the PSF license agreement. That definition was created by the Python Software Foundation (see https://www.python.org/psf/).
+Nano Fusion Design’s (NFD) intellectual property (IP) rights are licensed under the NFD License Agreement, which is based on the Python Software Foundation (PSF) License Agreement (see https://www.python.org/psf/). For more information about NFD, visit http://nanofusion.design/.
 
 NFD License Agreement
+This License Agreement (“Agreement”) is between Nano Fusion Design (“NFD”) and the individual or organization (“Licensee”) accessing or otherwise using NFD’s intellectual property (IP) in any form and its associated documentation.
 
-1. This LICENSE AGREEMENT is between the Nano Fusion Design ("NFD"), and the Individual or Organization ("Licensee") accessing and otherwise using NFD’s intellectual property (IP) in any forms and its associated documentation.
+1. Grant of License Subject to the terms and conditions of this Agreement, NFD grants Licensee a non‑exclusive, royalty‑free, worldwide license to reproduce, analyze, test, publicly perform and/or display, prepare derivative works, distribute, and otherwise use the IP—alone or in any derivative version—provided that:
 
-2. Subject to the terms and conditions of this License Agreement, NFD hereby grants Licensee a nonexclusive, royalty-free, world-wide license to reproduce, analyze, test, perform and/or display publicly, prepare derivative works, distribute, and otherwise use IP alone or in any derivative version, provided, however, that NFD's License Agreement and NDF's notice of copyright, i.e., "Copyright © 2022-2023 Nano Fusion Design; All Rights Reserved" are retained in it’s IP alone or in any derivative version prepared by Licensee.
+   (a) This Agreement and NFD’s copyright notice, i.e., Copyright © 2023–2025 Nano Fusion Design; All Rights Reserved, are retained in the IP and any derivative version prepared by Licensee.
 
-3. NFD is making IP available to Licensee on an "AS IS" basis.
-NFD MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, NFD MAKES NO AND DISCLAIMS ANY REPRESENTATION OR WARRANTY OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF IP WILL NOT INFRINGE ANY THIRD PARTY RIGHTS.
+3. Disclaimer of Warranty The IP is provided “AS IS” without representations or warranties of any kind, express or implied, including (without limitation) warranties of merchantability, fitness for a particular purpose, or non‑infringement.
 
-4. NFD SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER USERS OF IP FOR ANY INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES OR LOSS AS A RESULT OF MODIFYING, DISTRIBUTING, OR OTHERWISE USING IP, OR ANY DERIVATIVE THEREOF, EVEN IF ADVISED OF THE POSSIBILITY THEREOF.
+4. Limitation of Liability NFD shall not be liable to the Licensee or any other party for any incidental, special, or consequential damages or losses arising from the modification, distribution, or use of the IP or any derivative thereof, even if advised of the possibility of such damages.
 
-5. This License Agreement will automatically terminate upon a material breach of its terms and conditions.
+5. Termination This Agreement terminates automatically upon a material breach of its terms.
 
-6. Nothing in this License Agreement shall be deemed to create any relationship of agency, partnership, or joint venture between NFD and Licensee. This License Agreement does not grant permission to use NFD trademarks or trade name in a trademark sense to endorse or promote products or services of Licensee, or any third party.
+6. Relationship of the Parties Nothing in this Agreement creates an agency, partnership, or joint venture between NFD and Licensee. This Agreement does not grant permission to use NFD’s trademarks or trade name in a trademark sense to endorse or promote products or services.
 
-7. By copying, incorporating or otherwise using IP, Licensee agrees to be bound by the terms and conditions of this License Agreement.
+7. Acceptance of Terms By copying, incorporating, or otherwise using the IP, Licensee agrees to be bound by this Agreement.
 
-8. In case of exceptional or unforeseeable events, the guiding principle for updating or revising the statements above will be based on the public interest.
-
+8. Special Provision for Exceptional Circumstances In exceptional or unforeseeable events, revisions to this Agreement will be guided by the public interest, particularly given that hardware development and production differ substantially from software IP rights—generally requiring higher initial costs, more extensive trial and error during development, and greater duplication expenses in production. This provision aims to allow greater flexibility in IP management under unforeseen conditions.
